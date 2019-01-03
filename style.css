@@ -1,0 +1,17 @@
+/*
+@author Ali Piry <alipiry@icloud.com>
+
+Style our web app elements
+*/
+
+.stats, .all, .best {
+  font-family: "Courier", cursive;
+}
+
+.best {
+  font-size: 40px;
+}
+
+.stats {
+  font-size: 20px;
+}
